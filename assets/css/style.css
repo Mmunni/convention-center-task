@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-price{
+ background: rgba(244, 150, 209, 0.2);
+ color:#3F87F5;
+ outline: none;
+}
+,.btn-price:hover{
+    background-color: #fff;
+    color:#3F87F5;
+    border: none;
+}
